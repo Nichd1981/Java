@@ -1,4 +1,4 @@
-package be.tftic.webmobile.intro.tousLesExos.exoBoxeur;
+package be.tftic.webmobile.intro.tousLesExos.exoEnums;
 
 import java.time.LocalDate;
 import java.util.Objects;

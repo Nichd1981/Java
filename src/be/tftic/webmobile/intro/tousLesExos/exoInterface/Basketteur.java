@@ -1,4 +1,4 @@
-package be.tftic.webmobile.intro.tousLesExos.exoJoueursInterface;
+package be.tftic.webmobile.intro.tousLesExos.exoInterface;
 
 import java.util.Objects;
 import java.util.Random;

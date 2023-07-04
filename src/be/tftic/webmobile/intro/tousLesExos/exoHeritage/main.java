@@ -1,4 +1,4 @@
-package be.tftic.webmobile.intro.tousLesExos.exoSportifs;
+package be.tftic.webmobile.intro.tousLesExos.exoHeritage;
 
 public class main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package be.tftic.webmobile.intro.tousLesExos.exoJoueursInterface;
+package be.tftic.webmobile.intro.tousLesExos.exoInterface;
 
 import java.time.LocalDate;
 import java.util.Objects;

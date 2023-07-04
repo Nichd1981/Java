@@ -1,4 +1,4 @@
-package be.tftic.webmobile.intro.tousLesExos.exoSportifs;
+package be.tftic.webmobile.intro.tousLesExos.exoHeritage;
 
 import java.util.Objects;
 import java.util.Random;

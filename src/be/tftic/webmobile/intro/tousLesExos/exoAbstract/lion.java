@@ -1,4 +1,4 @@
-package be.tftic.webmobile.intro.tousLesExos.exoZoo;
+package be.tftic.webmobile.intro.tousLesExos.exoAbstract;
 
 public class lion extends animales{
 
